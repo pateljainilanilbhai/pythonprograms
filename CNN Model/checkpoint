@@ -1,0 +1,2 @@
+model_checkpoint_path: "CNN Model"
+all_model_checkpoint_paths: "CNN Model"
